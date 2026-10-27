@@ -1,0 +1,32 @@
+[Merkur]
+Nejmenší planeta naší sluneční soustavy.
+Kolem slunce oběhne za 87,969 dne.
+Je to skalanatá planeta a na jejím povrchu teplo extrémně kolísají od -180 do 430 stupňů celsia.
+[Venuše] 
+Druhá planeta od slunce Venuše je extrémně teplá planeta jde tam potkat klidně i 480 stupňů celsia.
+Jeden rok an venuši trvá 224,7dne.
+Povrch se skládá hlavně z lávy a teplých hornin.
+[Země] 
+Je to jediné těleso kde je potvrzený život.
+Asi 70% povrchu tvoří voda(oceány).
+[Mars] 
+Má přezdívku Rudá planeta a na jejím povrchu se nachází 22km vysoká sopka.
+Vědci do ní vkládájí velikou naději že tam mohl být život.
+Je červený až hnědý kvůli tomu že se skládá ze rezi.
+[Jupiter] 
+Je to největší a nejtěžší planetou naší sluneční soustavy.
+Není to pevná planeta protože se skládá z vodíku a helia.
+Nejslavnější z jeho měsíců jsou Io, Europa, Ganymedes a Kalisto.
+[Saturn] 
+Je to velká planeta s prstecemi a 292 měsíci z nich je 53 pojmenovaných.
+Znovu se jedná o planetu která se skládá z plynů.
+Má nejnižší hustotu ze všech planet.
+[Uran] 
+Jeden rok na téhle planetě trvá 84,07 roku na naší planetě.
+Nejnižší teploty jsou kolem -224 stupňů celsia.
+Má 29 měsíců a 13 prstenců.
+[Neptun] 
+Její rok trvá 165 pozemských let.
+Na Neptunu jsou vážné silné větry které dosahují rychlosti až 2400km/h.
+Je to planeta nejdál od slunce. 
+

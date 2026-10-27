@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sluneční soustava</title>
+        <!-- Propojení s externím CSS souborem -->
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <!-- Ovládací panel pro zrychlení času a zobrazení prvků -->
+        <div id="ovladani">
+            <label for="rychlostCasu">Rychlost času (1x = Realtime):</label><br>
+            <input type="number" id="rychlostCasu" value="1" min="1" step="1000">
+            <input type="range" id="rychlostCasuSlider" min="1" max="5000000" value="1" step="1000">
+            
+            <br>
+            <input type="checkbox" id="zobrazitDráhy" checked>
+            <label for="zobrazitDráhy">Zobrazit dráhy</label>
+            
+            <br>
+            <input type="checkbox" id="zastavit_čas">
+            <label for="zastavit_čas">Zastavit čas</label>
+        </div>
+        <div id="infoOKliknutePLaneteNeboSlunci"></div>
+
+        <!-- Dynamická klikatelná tlačítka se vygenerují sem přes JS -->
+        <div id="vesmirneElementy"></div>
+
+        <canvas id="canvas"></canvas>
+        <img id="sun" src="slunce.jpg" width="250" height="250">
+        
+        <!-- Propojení s externím JavaScriptovým skriptem -->
+        <script src="script.js"></script>
+    </body>
+</html>
